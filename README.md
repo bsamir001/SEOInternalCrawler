@@ -20,7 +20,7 @@ You can install dependencies using:
 pip install -r requirements.txt
 
 
-Usage and Workflow
+## Usage and Workflow
 This project consists of several main scripts. Here is the recommended order and description of how to use each:
 
 1. InternalLinkScraper.py
